@@ -1,7 +1,7 @@
 // Sample artisan data
 const artisans = [
     {
-      name: "Ringkhang Basumatary",
+      name: "Ringkhang",
       story: "I create handmade pottery using traditional techniques.",
       location: "North-est kokrajhar, Assam, India",
       products: [
