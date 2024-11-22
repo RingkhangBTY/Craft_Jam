@@ -1,4 +1,4 @@
-// Sample artisan data
+// Sample artisan data RINGKHANG IS GAY 
 const artisans = [
     {
       name: "Ringkhang",
