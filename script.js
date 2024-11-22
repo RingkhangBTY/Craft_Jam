@@ -1,4 +1,3 @@
-// Sample artisan data RINGKHANG IS GAY 
 const artisans = [
     {
       name: "Ringkhang",
@@ -11,9 +10,9 @@ const artisans = [
       ],
     },
     {
-      name: "Rohit Sharma",
+      name: "Amlan Sharma",
       story: "Weaving is my family’s heritage passed down for generations.",
-      location: "Kokrajhar, Assam, India",
+      location: "Bongaigaon, Assam, India",
       products: [
         { name: "Silk Scarf", price: 49, image: "https://imgs.search.brave.com/MAeZEDErLt0h99AdjN6xnqw__gKW7lTX9ZyCMI6RgyY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2RiLzNi/L2Q4L2RiM2JkOGU1/YmFkZDk0M2M1ZDll/ZWE1N2Q1YzQ1NGJk/LmpwZw" },
       ],
